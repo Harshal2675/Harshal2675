@@ -1,5 +1,6 @@
+ <img src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif" alt="harshal2675" />
 <h1 align="center">Hey People👋, I'm Harshal Prajapati</h1>
-<h3 align="center">A passionate computer science undergrad</h3>
+<h3 align="center">A passionate Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal2675&label=Profile%20views&color=0e75b6&style=flat" alt="harshal2675" /> </p>
 
@@ -9,13 +10,13 @@
 
 - 🤝 I have completed projects of **Fronted development and Machine Learning**
 
-- 👨‍💻 All of my project details are available at [LinkedIn](https://in.linkedin.com/in/harshal-prajapati-463547253)
+- 👨‍💻 All of my project details are available at [Projects](https://in.linkedin.com/in/harshal-prajapati-463547253)
 
-- 💬 Ask me about **Machine Learning, Frotend development, UI/UX**
+- 💬 Ask me about **Machine Learning, Frontend development, UI/UX**
 
 - 📫 How to reach me **harshal.p@ahduni.edu.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ltQFO0ti-S99UFu5MxRe6POGDTh2B9LD?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ansQt3yB5SawFNm-MjGvWi6K_0KdBJfW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
