@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 🤝 I have completed projects of **Fronted and Machine Learning**
+- 🤝 I have completed projects of **Fronted development and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com/in/harshal-prajapati-463547253](https://in.linkedin.com/in/harshal-prajapati-463547253)
+- 👨‍💻 All of my project details are available at [LinkedIn](https://in.linkedin.com/in/harshal-prajapati-463547253)
 
-- 💬 Ask me about **Machine Learning, Frotend, UI/UX**
+- 💬 Ask me about **Machine Learning, Frotend development, UI/UX**
 
 - 📫 How to reach me **harshal.p@ahduni.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ltQFO0ti-S99UFu5MxRe6POGDTh2B9LD?usp=sharing](https://drive.google.com/drive/folders/1ltQFO0ti-S99UFu5MxRe6POGDTh2B9LD?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1ltQFO0ti-S99UFu5MxRe6POGDTh2B9LD?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
